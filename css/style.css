@@ -301,7 +301,7 @@ padding: 10px 18px;
 }
 @media (max-width: 578px){
   body{
-    background-image: url(../img/main-bg.jpg);
+    background-image: url(../img/main-bg.png);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: 300%;
